@@ -1,0 +1,9 @@
+{
+  "name": "yarn-affected",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:theknarf-experiments/yarn-affected.git",
+  "author": "Frank Lyder Bredland <fl@nyggen.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.0.2"
+}
